@@ -1,0 +1,16 @@
+header{ border:3px solid grey;    
+}
+main{ border: 3px solid red;
+}
+
+footer{ border: 3px solid yellow;
+}
+
+li{ display: inline-block;
+}
+
+nav{ border: 3px solid blue; 
+}
+
+ul{ list-style: nome;
+}
